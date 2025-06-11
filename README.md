@@ -1,0 +1,1 @@
+# tendencias2veranocgm
