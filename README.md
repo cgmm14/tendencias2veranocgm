@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -50,7 +49,7 @@
 
   <section id="introduccion">
     <h1 align="center">Tendencias de Moda - Verano 2025</h1>
-     <h5 align=”right”>CGM</h5>
+     <h5 align="right">CGM</h5>
 
     <p align="center">Bienvenidos a nuestra página web sobre las tendencias de moda para el verano 2025. A lo largo de este proyecto, analizaremos los estilos, prendas, colores y accesorios que marcarán la temporada estival, tanto para hombres como para mujeres. Además, ofreceremos una galería de inspiración visual y una bibliografía con las fuentes utilizadas. La moda es una forma de expresión y cada tendencia refleja el espíritu de su época. En 2025, la sostenibilidad, la comodidad y la personalidad se imponen como pilares básicos del estilo.</p>
   </section>
@@ -198,7 +197,6 @@
       <li><a href="https://www.trendencias.com" target="_blank">https://www.trendencias.com</a></li>
       <li><a href="https://www.elle.com" target="_blank">https://www.elle.com</a></li>
       <li><a href="https://www.harpersbazaar.com" target="_blank">https://www.harpersbazaar.com</a></li>
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -223,7 +221,7 @@
 </head>
 <body>
 
-  <a href="https://www.vogue.es/" class="boton-vogue">Ir a la página</a>
+  <a href="https://www.vogue.es/" class="boton-vogue">Página vogue</a>
 
 </body>
 </html>
